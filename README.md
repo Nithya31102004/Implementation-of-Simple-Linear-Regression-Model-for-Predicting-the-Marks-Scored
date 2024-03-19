@@ -20,7 +20,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by:Nithya.T
 RegisterNumber:2305001023
 */
-```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error, mean_squared_error
