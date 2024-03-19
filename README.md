@@ -60,7 +60,7 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
 ## Output:
-![image]![Screenshot 2024-03-19 232008](https://github.com/Nithya31102004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/164048368/4c10f602-907f-4b64-9245-8e8ae00adeb3)
+[Screenshot 2024-03-19 232008](https://github.com/Nithya31102004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/164048368/4c10f602-907f-4b64-9245-8e8ae00adeb3)
 
 
 
