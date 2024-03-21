@@ -22,11 +22,6 @@ RegisterNumber:2305001023
 */
 ```
 ```
-/*
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: Adhithya.S
-RegisterNumber:  212222240003
-*/
 
 # IMPORT REQUIRED PACKAGE
 import pandas as pd
